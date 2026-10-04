@@ -3,10 +3,10 @@ An interactive Power BI dashboard analyzing survey responses from data analysts 
 
 ## Dashboard Preview
 ### Overview
-![Dashboard Overview](screenshots/dashboard_overview_2.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Career & Analysis
-![Dashboard Overview](screenshots/dashboard_overview_1.png)
+![Dashboard Overview](screenshots/Career & Analysis.png).
 
 ## Project Overview
 This project was created to explore survey data from data analysts and related professionals.
